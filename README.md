@@ -22,13 +22,6 @@ The dataset used in this project is the Bank Marketing dataset, available on the
 3. Place the dataset (`bank.csv`) in the same directory as the script.
 4. Run the script (`decision_tree_classifier.py`) to train the model and generate visualizations.
 
-## Visual Outputs
-
-### Decision Tree Visualization
-
-![Screenshot 2024-07-03 220337](https://github.com/PendemLikhitha/ProdigyInfoTech_TASK3/assets/159911587/a82182f5-612a-400c-bc5c-8ce88ba13880)
-
-
 
 ## Code
 
